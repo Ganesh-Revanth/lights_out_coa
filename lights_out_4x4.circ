@@ -742,19 +742,19 @@
     </comp>
     <comp lib="6" loc="(840,350)" name="Button"/>
     <comp lib="6" loc="(840,370)" name="Button"/>
-    <comp lib="9" loc="(1041,625)" name="Text">
+    <comp lib="9" loc="(1040,625)" name="Text">
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val="Win Detector (1 if All lights are off)"/>
     </comp>
-    <comp lib="9" loc="(1132,136)" name="Text">
+    <comp lib="9" loc="(1130,135)" name="Text">
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val="Button Encoder (16 to 4 bit)"/>
     </comp>
-    <comp lib="9" loc="(1183,890)" name="Text">
+    <comp lib="9" loc="(1180,890)" name="Text">
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val="Random State Generator"/>
     </comp>
-    <comp lib="9" loc="(1505,637)" name="Text">
+    <comp lib="9" loc="(1505,635)" name="Text">
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val=" Move Counter"/>
     </comp>
@@ -762,27 +762,27 @@
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val="BITMASK ROM (Consists of preset of each button)"/>
     </comp>
-    <comp lib="9" loc="(263,333)" name="Text">
+    <comp lib="9" loc="(260,330)" name="Text">
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val="MOVE COUNTER"/>
     </comp>
-    <comp lib="9" loc="(264,474)" name="Text">
+    <comp lib="9" loc="(260,470)" name="Text">
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val="VICTORY STATUS"/>
     </comp>
-    <comp lib="9" loc="(268,245)" name="Text">
+    <comp lib="9" loc="(265,245)" name="Text">
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val="RESET GAME"/>
     </comp>
-    <comp lib="9" loc="(278,189)" name="Text">
+    <comp lib="9" loc="(275,185)" name="Text">
       <a name="font" val="Google Sans bold 20"/>
       <a name="text" val="GAME CONTROLS"/>
     </comp>
-    <comp lib="9" loc="(357,866)" name="Text">
+    <comp lib="9" loc="(355,865)" name="Text">
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val="State Tracker"/>
     </comp>
-    <comp lib="9" loc="(458,144)" name="Text">
+    <comp lib="9" loc="(455,140)" name="Text">
       <a name="font" val="SansSerif italic 16"/>
       <a name="text" val="Select Poke Tool (Finger) -&gt; Click any Button in the 4x4 Grid to toggle it &amp; its neighbors."/>
     </comp>
@@ -790,23 +790,23 @@
       <a name="font" val="Segoe UI bold 16"/>
       <a name="text" val="State Register"/>
     </comp>
-    <comp lib="9" loc="(591,252)" name="Text">
-      <a name="font" val="Segoe Script bold 16"/>
-      <a name="text" val="Lights"/>
-    </comp>
-    <comp lib="9" loc="(673,91)" name="Text">
+    <comp lib="9" loc="(559,71)" name="Text">
       <a name="font" val="Google Sans bold 38"/>
       <a name="text" val="LIGHTS OUT (4x4 Version)"/>
     </comp>
-    <comp lib="9" loc="(711,190)" name="Text">
+    <comp lib="9" loc="(590,250)" name="Text">
+      <a name="font" val="Segoe Script bold 16"/>
+      <a name="text" val="Lights"/>
+    </comp>
+    <comp lib="9" loc="(710,190)" name="Text">
       <a name="font" val="Showcard Gothic bold 19"/>
       <a name="text" val="Turn ALL 16 lights OFF to WIN!"/>
     </comp>
-    <comp lib="9" loc="(793,251)" name="Text">
+    <comp lib="9" loc="(790,250)" name="Text">
       <a name="font" val="Segoe Script bold 16"/>
       <a name="text" val="Buttons"/>
     </comp>
-    <comp lib="9" loc="(830,868)" name="Text">
+    <comp lib="9" loc="(830,865)" name="Text">
       <a name="text" val="Any Button Press Detector"/>
     </comp>
     <wire from="(1000,670)" to="(1040,670)"/>
